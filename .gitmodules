@@ -1,6 +1,6 @@
 [submodule "candyjar"]
 	path = candyjar
-	url = git@github.com:chameleonlive/candyjar.git
+	url = https://github.com/chameleonlive/candyjar.git
 [submodule "superchat-message"]
 	path = superchat-message
-	url = git@github.com:chameleonlive/superchat-message.git
+	url = https://github.com/chameleonlive/superchat-message.git
