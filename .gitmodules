@@ -1,0 +1,3 @@
+[submodule "candyjar"]
+	path = candyjar
+	url = git@github.com:chameleonlive/candyjar.git
