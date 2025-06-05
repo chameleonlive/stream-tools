@@ -4,6 +4,6 @@
 [submodule "superchat-message"]
 	path = superchat-message
 	url = https://github.com/chameleonlive/superchat-message.git
-[submodule "superchat-message"]
+[submodule "progress-bar"]
 	path = progress-bar
 	url = https://github.com/chameleonlive/progress-bar.git
